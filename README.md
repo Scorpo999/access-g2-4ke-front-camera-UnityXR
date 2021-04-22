@@ -16,4 +16,4 @@ Confirm key: Zoom out
 
 ## Note:
 - This demo is implemented in Unity 2019.4.
-- This demo works with Pico_UnityXR_SDK which can be found at [here.](https://developer.pico-interactive.com/sdk/index?id=8)
+-  Pico_UnityXR_SDK is not in the Demo, so the SDK needs to be imported separately via Unity packack manager after downloading the Demo，which can be found at [here.](https://developer.pico-interactive.com/sdk/index?id=8)
